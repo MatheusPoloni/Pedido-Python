@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="aula10">
+    <file>coracao.png</file>
+  </qresource>
+</RCC>
